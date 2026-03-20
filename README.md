@@ -4,7 +4,7 @@ A clean, responsive, and real-time web utility that monitors device statuses fro
 
 ## 🚀 Live Demo
 
-**[Insert your GitHub Pages URL here]**
+**[https://qutep.github.io/device-status-dashboard/]**
 
 ## ✨ Key Features
 
