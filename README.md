@@ -37,7 +37,7 @@ A clean, responsive, and real-time web utility that monitors device statuses fro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/device-status-dashboard.git
+git clone https://github.com/QuteP/device-status-dashboard.git
 
 ```
 
